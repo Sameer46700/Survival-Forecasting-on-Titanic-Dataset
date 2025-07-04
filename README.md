@@ -1,8 +1,5 @@
 ## 🚢 Titanic Survival Prediction Using Logistic Regression
 
-Welcome to my first machine learning project! In this project, I use the famous Titanic dataset to build a **logistic regression model** that predicts whether a passenger survived or not based on features like age, class, gender, and more.
-
-
 ### 📁 Project Structure
 
 
